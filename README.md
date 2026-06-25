@@ -2,8 +2,6 @@
 
 I'm a DevOps Engineer and a Certified Kubernetes Administrator, helping businesses implementing DevOps & Site Reliability Engineering, Kubernetes hybrid setup (on-prem + cloud), Kubernetes security & compliance, migrating applications to the cloud, applications' monitoring & observability
 
-📫 How to reach me! [![Mail Badge](https://img.shields.io/badge/-babbili.dxb@gmail.com-ffffff?style=flat&labelColor=ffffff&logo=gmail&logoColor=ff3838)](mailto:babbili.dxb@gmail.com)
-
 
 ### DevOps & Cloud
 
